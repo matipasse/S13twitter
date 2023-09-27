@@ -1,4 +1,4 @@
-[
+{"posts": [
 	{
 		"name": "Jesse Kinney",
 		"text": "iaculis enim, sit amet ornare lectus justo eu arcu. Morbi"
@@ -19,4 +19,4 @@
 		"name": "Alexis Camacho",
 		"text": "Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer"
 	}
-]
+]}
