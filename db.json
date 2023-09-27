@@ -1,23 +1,32 @@
 {"posts": [
 	{
-		"name": "Jesse Kinney",
-		"text": "iaculis enim, sit amet ornare lectus justo eu arcu. Morbi"
-        
+		"name": "Marshall Goff",
+		"text": "Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam ligula",
+		"username": "@marshallfc34",
+		"time": "9:33 AM"
 	},
 	{
-		"name": "Aretha Haley",
-		"text": "eu arcu. Morbi sit amet massa. Quisque porttitor eros nec"
+		"name": "Gay Camacho",
+		"text": "lacinia. Sed congue, elit sed consequat auctor, nunc nulla vulputate",
+		"username": "@gaycam21",
+		"time": "9:53 PM"
 	},
 	{
-		"name": "Rooney Turner",
-		"text": "tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum"
+		"name": "Germaine Ellison",
+		"text": "lorem ipsum sodales purus, in molestie tortor nibh sit amet",
+		"username": "@germine92",
+		"time": "7:47 PM"
 	},
 	{
-		"name": "Driscoll Rice",
-		"text": "libero et tristique pellentesque, tellus sem mollis dui, in sodales"
+		"name": "Hasad Booth",
+		"text": "aliquet odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis",
+		"username": "@hasadbo",
+		"time": "7:27 PM"
 	},
 	{
-		"name": "Alexis Camacho",
-		"text": "Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer"
+		"name": "Dustin Farrell",
+		"text": "eu tellus eu augue porttitor interdum. Sed auctor odio a",
+		"username": "@dustinfafa",
+		"time": "7:11 PM"
 	}
 ]}
