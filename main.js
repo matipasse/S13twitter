@@ -16,8 +16,8 @@ function comentarios(data) {
           <div class="content">
             <div class="names">
               <p class="full-name">${data[i].name}</p>
-              <p class="user-name">@full_name</p>
-              <p class="time"> 27mins</p>
+              <p class="user-name">${data[i].username}</p>
+              <p class="time"> ${data[i].time}</p>
             </div>
           </div>
           <div class="tweet-content">
